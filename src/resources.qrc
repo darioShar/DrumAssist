@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/Microphone.png</file>
+        <file>Icons/oie_transparent (1).png</file>
+        <file>Icons/oie_Ie6PXCWxP32f.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>Musics/La purée - salut c'est cool.mp3</file>
+        <file>Musics/Salut C'est Cool - TECHNO TOUJOURS PAREIL.mp3</file>
+        <file>Musics/Denis Brogniart  AH original.mp3</file>
+    </qresource>
+</RCC>
